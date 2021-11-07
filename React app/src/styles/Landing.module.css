@@ -1,0 +1,142 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.landing_btn {
+  background: linear-gradient(
+    360deg,
+    #ff527b 0%,
+    rgba(255, 62, 108, 0.6) 106.1%
+  );
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border: none;
+  border-radius: 4px;
+  color: white;
+  outline: white;
+  font-size: 18px;
+  width: 15rem;
+  height: 2rem;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.landing_btn:focus {
+  outline: white;
+}
+.came {
+  margin-top: 5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.capture {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.hero__Section {
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 110vh;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 62, 108, 0.1) 0%,
+    #ff527b 1100%
+  );
+}
+.hero__inner,
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 1 !important;
+}
+.main {
+  margin-top: -6rem;
+}
+.title {
+  color: #ff2a5c;
+  font-weight: bolder;
+  font-size: 3rem;
+  margin-left: 1rem;
+}
+
+.stripe {
+  margin-top: -3rem;
+}
+.rectangle1 {
+  margin-left: -14rem;
+  margin-bottom: -1rem;
+}
+.rectangle2 {
+  margin-left: -18rem;
+}
+
+.illustartion {
+  padding-bottom: 4rem;
+}
+
+.landing__info {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  color: #ff2a5c;
+  font-size: 1.4rem;
+  padding-bottom: 2rem;
+}
+
+.landing__content {
+  font-family: "Montserrat", sans-serif;
+}
+
+.landing__content_title {
+  margin-top: 3rem;
+  margin-bottom: 4rem;
+  margin-left: 1rem;
+  text-align: left;
+  font-weight: bold;
+}
+
+.landing__content_img {
+  margin-left: 1.5rem;
+  margin-right: 2rem;
+}
+
+.landing__content_para {
+  display: flex;
+  align-items: center;
+  padding-bottom: 3rem;
+}
+
+.footer {
+  font-family: "Montserrat", sans-serif;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 10vw;
+  background: #f8a2b6;
+  color: white;
+}
+
+.icon_style {
+  /* border: 2px solid red; */
+  padding-top: 0.25rem;
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+  font-size: 1rem;
+  /* color: red; */
+}

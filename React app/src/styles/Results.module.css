@@ -1,0 +1,25 @@
+.header {
+  height: 6vh;
+  background: linear-gradient(180deg, rgba(255, 62, 108, 0.6) 0%, #ff527b 100%);
+}
+.patternMatches {
+  padding: 5vw;
+}
+.patternMatchCarousel {
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: repeat(100, 1fr);
+  column-gap: 20px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  padding: 15px;
+}
+.matchingOutfit {
+  display: grid;
+  padding: px;
+  width: 100%;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 10px;
+  row-gap: 30px;
+  margin-bottom: 20vh;
+}

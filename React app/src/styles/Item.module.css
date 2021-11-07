@@ -1,0 +1,97 @@
+.container {
+  padding: 28px;
+  padding-bottom: 95px;
+  overflow-y: scroll;
+  height: 80vh;
+}
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5vh;
+}
+.brand {
+  font-size: 20px;
+  filter: opacity(0.6);
+  margin-bottom: 3vh;
+}
+.label {
+  font-size: 25px;
+  margin-bottom: 2vh;
+}
+.addtocart {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 80px;
+  background-color: #fff;
+  box-shadow: 0px -2px 7px rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.addtocart > button {
+  background: linear-gradient(180deg, rgba(255, 62, 108, 0.6) 0%, #ff527b 100%);
+  border-radius: 5px;
+  border: none;
+  width: 243px;
+  height: 45px;
+  font-size: 20px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+.modifyquantity {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 40%;
+  font-size: 21px;
+  margin-bottom: 20px;
+}
+.modifyquantity > button {
+  background: linear-gradient(180deg, rgba(255, 62, 108, 0.6) 0%, #ff527b 100%);
+  height: 35px;
+  width: 35px;
+  border: none;
+  border-radius: 50%;
+  font-size: 25px;
+  color: #fff;
+}
+
+.price {
+  margin: 4vh 0;
+  font-size: 25px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+}
+.discount {
+  color: #4eb51e;
+  font-size: 17px;
+  margin-left: 20px;
+}
+.oldprice {
+  color: grey;
+  font-size: 18px;
+  text-decoration: line-through;
+  margin-right: 10px;
+}
+.selectSizes {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  margin-top: 5vh;
+}
+.size {
+  border: grey solid 1px;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.active {
+  background-color: rgba(255, 62, 108, 0.6);
+}

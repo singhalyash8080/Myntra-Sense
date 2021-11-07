@@ -1,0 +1,11 @@
+.header {
+  height: 6vh;
+  background: linear-gradient(180deg, rgba(255, 62, 108, 0.6) 0%, #ff527b 100%);
+  margin-bottom: 2vh;
+  overflow-x: hidden;
+}
+.icon {
+  font-size: 30px;
+  margin: 10px 20px;
+  color: white;
+}

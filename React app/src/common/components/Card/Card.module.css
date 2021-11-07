@@ -1,0 +1,48 @@
+.card {
+  width: 200px;
+  height: 288px;
+  box-shadow: 0px 0px 6px 1px rgba(25, 25, 25, 0.2);
+  border-radius: 7px;
+  padding: 20px;
+}
+.image {
+  max-width: 170px;
+  max-height: 125px;
+  position: relative;
+  display: block;
+  margin-bottom: 10px;
+}
+.rating {
+  position: absolute;
+  left: 10%;
+  bottom: 10%;
+  z-index: 9;
+  background-color: white;
+  padding: 3px;
+  font-size: 12px;
+}
+.brand {
+  filter: opacity(0.5);
+  margin-bottom: 5px;
+}
+.value {
+  display: flex;
+  align-items: center;
+}
+.label {
+  font-size: 20px;
+  height: 50px;
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+.price {
+  font-size: 19px;
+  color: "#191919";
+  filter: opacity(0.9);
+  margin-right: 15px;
+  font-weight: 700;
+}
+.discount {
+  color: #4eb51e;
+  font-weight: 600;
+}
