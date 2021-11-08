@@ -22,7 +22,7 @@ Instead of just shopping for separate and individual items, they can shop for cl
 <img src="https://raw.githubusercontent.com/singhalyash8080/Myntra-Sense/main/Screenshots/ss3.jpg" width="200">
 <img src="https://raw.githubusercontent.com/singhalyash8080/Myntra-Sense/main/Screenshots/ss1.jpg" width="200">
 <img src="https://raw.githubusercontent.com/singhalyash8080/Myntra-Sense/main/Screenshots/ss2.jpg" width="200">
-<img src="https://raw.githubusercontent.com/singhalyash8080/Myntra-Sense/main/Screenshots/ss4.jpg" width="200" height="400">
+<img src="https://raw.githubusercontent.com/singhalyash8080/Myntra-Sense/main/Screenshots/ss4.jpg" width="200">
 </span>
 
 
