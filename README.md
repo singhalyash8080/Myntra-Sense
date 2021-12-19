@@ -25,6 +25,9 @@ Instead of just shopping for separate and individual items, they can shop for cl
 <img src="https://raw.githubusercontent.com/singhalyash8080/Myntra-Sense/main/Screenshots/ss4.jpg" width="200">
 </span>
 
+## Demo video
+https://drive.google.com/drive/folders/1WJpZOLYk0Jqgm5McwYm4M2PMgIPvFVxs
+
 
 ## Contributors
 * <a href="https://github.com/singhalyash8080"> Yash Singhal </a>
